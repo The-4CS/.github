@@ -10,7 +10,7 @@
 
 1. Vishal Sharma ( <mark>Product Researcher</mark> )
 
-2. Vikalp Srivastava ( <mark>Content Writer, Coder</mark>)
+2. Vikalp Srivastava ( <mark>Content Writer, Coder</mark> )
 
 3. Shubham Aggarwal ( <mark>Backend Developer</mark> )
 
